@@ -1,9 +1,10 @@
 # Hi there, I'm Sumit Suryawanshi! 👋
 
-I'm a passionate Software Developer with experience in MERN Stack Development, Web & Android App Development, and more. Welcome to my GitHub profile!
+I'm a passionate Software Developer with experience in MERN Stack Development, Web & Android App Development. 
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🎓 Computer Science Degree from Harvard University
+- 🎓 Computer Science Course from Harvard University
 - 💼 Ex-Software Engineer(TBO analyst level) at AMDOCS
 - 🌱 Always learning and exploring new technologies
 
@@ -15,7 +16,6 @@ I'm a passionate Software Developer with experience in MERN Stack Development, W
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-...and more!
 
 ## 📂 Projects
 ### Zoom (Enterprise Video Conferencing app)
@@ -27,7 +27,6 @@ I'm a passionate Software Developer with experience in MERN Stack Development, W
 ### Ai-FliX (React Video Player with Firebase)
 - [Live URL](link-to-live-url)
 
-...and more!
 
 ## 📚 Certifications
 - Certified for Software Project management by The Open University
