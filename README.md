@@ -35,5 +35,5 @@ Welcome to my GitHub profile!
 - Certified for Software Project Management by ALISON.COM
 
 ## 📫 Connect with Me
-- LinkedIn: [Sumit Suryawanshi](linkedin-profile-url)
+- LinkedIn: [Sumit Suryawanshi](https://www.linkedin.com/in/thesumitsuryawanshi/)
 - Portfolio : [Portflio Link](https://3d-portfolio-omega-snowy.vercel.app/)
