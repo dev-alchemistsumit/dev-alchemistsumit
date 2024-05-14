@@ -4,7 +4,7 @@ I'm a passionate Software Developer with experience in MERN Stack Development, W
 
 ## 🚀 About Me
 - 🎓 Computer Science Degree from Harvard University
-- 💼 Currently working as a Software Engineer at AMDOCS
+- 💼 Ex-Software Engineer(TBO analyst level) at AMDOCS
 - 🌱 Always learning and exploring new technologies
 
 ## 🔧 Technologies & Tools
@@ -19,15 +19,12 @@ I'm a passionate Software Developer with experience in MERN Stack Development, W
 
 ## 📂 Projects
 ### Zoom (Enterprise Video Conferencing app)
-- [GitHub Repository](link-to-repo)
 - [Live URL](link-to-live-url)
 
 ### Enterprise ChatGpt Clone
-- [GitHub Repository](link-to-repo)
 - [Live URL](link-to-live-url)
 
 ### Ai-FliX (React Video Player with Firebase)
-- [GitHub Repository](link-to-repo)
 - [Live URL](link-to-live-url)
 
 ...and more!
@@ -35,7 +32,9 @@ I'm a passionate Software Developer with experience in MERN Stack Development, W
 ## 📚 Certifications
 - Certified for Software Project management by The Open University
 - Certified JAVA, HTML & SQL developer by LINKEDIN
+- Certified Professional Android Developer By META.
+- Certified for Software Project Management by ALISON.COM
 
 ## 📫 Connect with Me
 - LinkedIn: [Sumit Suryawanshi](linkedin-profile-url)
-- Email: sumit_suryawanshi@outlook.com
+- Portfolio : [Portflio Link](https://3d-portfolio-omega-snowy.vercel.app/)
