@@ -19,13 +19,13 @@ Welcome to my GitHub profile!
 
 ## 📂 Projects
 ### Zoom (Enterprise Video Conferencing app)
-- [Live URL](link-to-live-url)
+- [Live URL](https://zoom-virid-two.vercel.app/)
 
 ### Enterprise ChatGpt Clone
-- [Live URL](link-to-live-url)
+- [Live URL](https://chat-gpt-phi-virid-93.vercel.app/)
 
 ### Ai-FliX (React Video Player with Firebase)
-- [Live URL](link-to-live-url)
+- [Live URL](https://ai-flix-678f3.web.app/login)
 
 
 ## 📚 Certifications
