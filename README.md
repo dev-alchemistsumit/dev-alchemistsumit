@@ -1,4 +1,5 @@
 immersed in technology and development.
-would love to connect : 
-discord : summit747
-x : @AmazingSummitS
+
+<br>would love to connect : 
+<br> discord : summit747
+<br> x : @AmazingSummitS
