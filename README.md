@@ -3,5 +3,5 @@ width="180" height="180" />
 
 > immersed in technology and development.
 
-<br> discord : summit747
+<br> discord : chat_alchemistsumit
 <br> x : @alchemistsumit
