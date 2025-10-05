@@ -1,4 +1,4 @@
-<h1 align="center"> | Immersed in technology and development.</h1>
+<p align="center"> immersed in technology and development.</p>
 <p align="center">
   If you have an offer, opportunity, or introduction that might make my life more interesting,<br>
   I would like to hear from you on
