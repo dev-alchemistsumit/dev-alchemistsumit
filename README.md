@@ -6,4 +6,4 @@
     <img src="https://img.shields.io/badge/-@alchemistsumit-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge">
   </a>
 </p>
-<p align="center">Thank you.</p>
+<p align="center">Thank you :) </p>
